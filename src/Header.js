@@ -1,5 +1,4 @@
 import React from "react";
-import desk from "./Images/desk.jpg";
 
 function Header() {
 	return (
