@@ -24,7 +24,7 @@ function Header() {
 					</div>
 				</div>
 
-				<div className="my-10 text-3xl ">
+				<div className="mb-8 text-base md:text-xl dark:text-white-700 text-black-700">
 					<p>
 						I am a rising React developer. Graduated in CSE from Thapar
 						University, Patiala.<br></br>I enjoy creating high-quality software
