@@ -1,6 +1,6 @@
 import React from "react";
-import { FaReact, FaHtml5, FaCss3Alt, FaGitAlt } from "react-icons/fa";
-import { SiTailwindcss, SiJavascript } from "react-icons/si";
+import { FaReact, FaHtml5, FaCss3Alt, FaGitAlt, FaSass } from "react-icons/fa";
+import { SiTailwindcss, SiJavascript, SiFigma } from "react-icons/si";
 
 function Skills() {
 	return (
@@ -53,11 +53,27 @@ function Skills() {
 						</p>
 					</div>
 					<div className="block pt-3 pb-2 text-center rounded-md dark:bg-gray-900 bg-whiteTheme">
-						<div className="text-red-400">
+						<div className="text-red-500">
 							<FaGitAlt />
 						</div>
 						<p className="mt-2 text-base font-medium text-black-700 dark:text-white-700">
 							Git
+						</p>
+					</div>
+					<div className="block pt-3 pb-2 text-center rounded-md dark:bg-gray-900 bg-whiteTheme">
+						<div className="text-red-400">
+							<FaSass />
+						</div>
+						<p className="mt-2 text-base font-medium text-black-700 dark:text-white-700">
+							Sass
+						</p>
+					</div>
+					<div className="block pt-3 pb-2 text-center rounded-md dark:bg-gray-900 bg-whiteTheme">
+						<div className="">
+							<SiFigma />
+						</div>
+						<p className="mt-2 text-base font-medium text-black-700 dark:text-white-700">
+							Figma
 						</p>
 					</div>
 				</div>
