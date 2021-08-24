@@ -11,15 +11,17 @@ function App() {
 	return (
 		<div className="transition-all duration-1000 App dark:bg-gray-800">
 			<>
-				<ThemeProvider>
-					<Nav />
+				<div className="mx-10">
+					<ThemeProvider>
+						<Nav />
 
-					<Header />
-					<Projects />
-					<Skills />
-					<Experience />
-					<Footer />
-				</ThemeProvider>
+						<Header />
+						<Projects />
+						<Skills />
+						<Experience />
+						<Footer />
+					</ThemeProvider>
+				</div>
 			</>
 		</div>
 	);
