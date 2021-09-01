@@ -12,7 +12,7 @@ function Skills() {
 					tools I am most familiar with and build things every day.
 				</h2>
 				<div className="flex space-x-4 text-6xl ">
-					<div className="block pt-3 pb-2 text-center rounded-md dark:bg-gray-900 bg-whiteTheme">
+					<div className="block p-4 text-center rounded-md shadow-lg dark:bg-gray-900 bg-whiteTheme">
 						<div className="text-yellow-400">
 							<SiJavascript />
 						</div>
@@ -20,7 +20,7 @@ function Skills() {
 							Javascript
 						</p>
 					</div>
-					<div className="block pt-3 pb-2 text-center rounded-md dark:bg-gray-900 bg-whiteTheme">
+					<div className="block p-4 text-center rounded-md shadow-lg dark:bg-gray-900 bg-whiteTheme">
 						<div className="text-blue-500">
 							<FaReact />
 						</div>
@@ -28,7 +28,7 @@ function Skills() {
 							React
 						</p>
 					</div>
-					<div className="block pt-3 pb-2 text-center rounded-md dark:bg-gray-900 bg-whiteTheme">
+					<div className="block p-4 text-center rounded-md shadow-lg dark:bg-gray-900 bg-whiteTheme">
 						<div className="text-red-500">
 							<FaHtml5 />
 						</div>
@@ -36,7 +36,7 @@ function Skills() {
 							Html
 						</p>
 					</div>
-					<div className="block pt-3 pb-2 text-center rounded-md dark:bg-gray-900 bg-whiteTheme">
+					<div className="block p-4 text-center rounded-md shadow-lg dark:bg-gray-900 bg-whiteTheme">
 						<div className="text-blue-500">
 							<FaCss3Alt />
 						</div>
@@ -44,7 +44,7 @@ function Skills() {
 							Css
 						</p>
 					</div>
-					<div className="block pt-3 pb-2 text-center rounded-md dark:bg-gray-900 bg-whiteTheme">
+					<div className="block p-4 text-center rounded-md shadow-lg dark:bg-gray-900 bg-whiteTheme">
 						<div className="text-green-400">
 							<SiTailwindcss />
 						</div>
@@ -52,7 +52,7 @@ function Skills() {
 							Tailwind
 						</p>
 					</div>
-					<div className="block pt-3 pb-2 text-center rounded-md dark:bg-gray-900 bg-whiteTheme">
+					<div className="block p-4 text-center rounded-md shadow-lg dark:bg-gray-900 bg-whiteTheme">
 						<div className="text-red-500">
 							<FaGitAlt />
 						</div>
@@ -60,7 +60,7 @@ function Skills() {
 							Git
 						</p>
 					</div>
-					<div className="block pt-3 pb-2 text-center rounded-md dark:bg-gray-900 bg-whiteTheme">
+					<div className="block p-4 text-center rounded-md shadow-lg dark:bg-gray-900 bg-whiteTheme">
 						<div className="text-red-400">
 							<FaSass />
 						</div>
@@ -68,7 +68,7 @@ function Skills() {
 							Sass
 						</p>
 					</div>
-					<div className="block pt-3 pb-2 text-center rounded-md dark:bg-gray-900 bg-whiteTheme">
+					<div className="block p-4 text-center rounded-md shadow-lg dark:bg-gray-900 bg-whiteTheme">
 						<div className="">
 							<SiFigma />
 						</div>
