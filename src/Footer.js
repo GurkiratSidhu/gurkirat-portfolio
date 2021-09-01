@@ -3,7 +3,7 @@ import React from "react";
 function Footer() {
 	return (
 		<div>
-			<div className="dark:text-white">
+			<div className="mx-10 my-10 text-left dark:text-white">
 				<h1 className="text-4xl font-extrabold text-left ">Wanna reach out?</h1>
 				<h2 className="text-2xl">
 					Feel free to drop me a message if you have some interesting offer or

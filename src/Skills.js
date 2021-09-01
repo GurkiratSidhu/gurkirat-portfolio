@@ -5,7 +5,7 @@ import { SiTailwindcss, SiJavascript, SiFigma } from "react-icons/si";
 function Skills() {
 	return (
 		<div>
-			<div className="dark:text-white">
+			<div className="mx-10 my-10 text-left dark:text-white">
 				<h1 className="text-4xl font-extrabold text-left">Skills</h1>
 				<h2 className="text-2xl">
 					I am passionate about using cutting-edge technologies. These are the

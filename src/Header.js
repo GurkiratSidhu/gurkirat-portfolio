@@ -16,7 +16,7 @@ function Header() {
 					<p className="mb-4 text-xl font-extrabold tracking-normal md:text-4xl text-black-700 dark:text-white-700">
 						Previously @GyanDhan , @MindScroll and @94Films
 					</p>
-					<div className="flex mt-10 space-x-4 text-4xl dark:text-white">
+					<div className="flex py-10 my-10 space-x-4 text-4xl dark:text-white">
 						<a href="https://github.com/GurkiratSidhu">
 							<FaGithub />
 						</a>
