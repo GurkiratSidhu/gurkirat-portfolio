@@ -11,9 +11,9 @@ function Footer() {
 				</h2>
 				<a
 					href="https://www.linkedin.com/in/gurkiratsidhu/"
-					className="text-2xl font-bold text-blue-500"
+					className="text-xl font-bold text-blue-500 md:text-2xl"
 				>
-					https://www.linkedin.com/in/gurkiratsidhu/
+					Gurkirat Sidhu
 				</a>
 			</div>
 		</div>

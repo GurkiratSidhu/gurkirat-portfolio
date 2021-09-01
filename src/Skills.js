@@ -11,68 +11,69 @@ function Skills() {
 					I am passionate about using cutting-edge technologies. These are the
 					tools I am most familiar with and build things every day.
 				</h2>
-				<div className="flex space-x-4 text-6xl ">
+
+				<div className="grid max-w-2xl grid-cols-2 gap-6 mt-8 sm:grid-cols-4 ">
 					<div className="block px-8 py-4 text-center rounded-md shadow-lg dark:bg-gray-900 bg-whiteTheme">
-						<div className="object-center text-yellow-400 ">
-							<SiJavascript />
+						<div className="w-20 h-20 mx-auto text-yellow-400 ">
+							<SiJavascript size="90" />
 						</div>
-						<p className="mt-2 text-base font-medium text-black-700 dark:text-white-700">
+						<p className="mt-2 text-xl font-medium text-black-700 dark:text-white-700">
 							Javascript
 						</p>
 					</div>
 					<div className="block px-8 py-4 text-center rounded-md shadow-lg dark:bg-gray-900 bg-whiteTheme">
-						<div className="text-blue-500">
-							<FaReact />
+						<div className="w-20 h-20 mx-auto text-blue-500">
+							<FaReact size="95" />
 						</div>
-						<p className="mt-2 text-base font-medium text-black-700 dark:text-white-700">
+						<p className="mt-2 text-xl font-medium text-black-700 dark:text-white-700">
 							React
 						</p>
 					</div>
 					<div className="block px-8 py-4 text-center rounded-md shadow-lg dark:bg-gray-900 bg-whiteTheme">
-						<div className="text-red-500">
-							<FaHtml5 />
+						<div className="w-20 h-20 mx-auto text-red-500">
+							<FaHtml5 size="90" />
 						</div>
-						<p className="mt-2 text-base font-medium text-black-700 dark:text-white-700">
+						<p className="mt-2 text-xl font-medium text-black-700 dark:text-white-700">
 							Html
 						</p>
 					</div>
 					<div className="block px-8 py-4 text-center rounded-md shadow-lg dark:bg-gray-900 bg-whiteTheme">
-						<div className="text-blue-500">
-							<FaCss3Alt />
+						<div className="w-20 h-20 mx-auto text-blue-500">
+							<FaCss3Alt size="90" />
 						</div>
-						<p className="mt-2 text-base font-medium text-black-700 dark:text-white-700">
+						<p className="mt-2 text-xl font-medium text-black-700 dark:text-white-700">
 							Css
 						</p>
 					</div>
 					<div className="block px-8 py-4 text-center rounded-md shadow-lg dark:bg-gray-900 bg-whiteTheme">
-						<div className="text-green-400">
-							<SiTailwindcss />
+						<div className="w-20 h-20 mx-auto text-green-400">
+							<SiTailwindcss size="100" />
 						</div>
-						<p className="mt-2 text-base font-medium text-black-700 dark:text-white-700">
+						<p className="mt-2 text-xl font-medium text-black-700 dark:text-white-700">
 							Tailwind
 						</p>
 					</div>
-					<div className="block px-8 py-4 text-center rounded-md shadow-lg dark:bg-gray-900 bg-whiteTheme">
-						<div className="text-red-500">
-							<FaGitAlt />
+					<div className="block px-4 py-2 text-center rounded-md shadow-lg dark:bg-gray-900 bg-whiteTheme">
+						<div className="flex items-center justify-center w-full h-20 mx-auto text-red-500">
+							<FaGitAlt size="90" />
 						</div>
-						<p className="mt-2 text-base font-medium text-black-700 dark:text-white-700">
+						<p className="mt-2 text-xl font-medium text-black-700 dark:text-white-700">
 							Git
 						</p>
 					</div>
 					<div className="block px-8 py-4 text-center rounded-md shadow-lg dark:bg-gray-900 bg-whiteTheme">
-						<div className="text-red-400">
-							<FaSass />
+						<div className="w-20 h-20 mx-auto text-red-400">
+							<FaSass size="100" />
 						</div>
-						<p className="mt-2 text-base font-medium text-black-700 dark:text-white-700">
+						<p className="mt-2 text-xl font-medium text-black-700 dark:text-white-700">
 							Sass
 						</p>
 					</div>
 					<div className="block px-8 py-4 text-center rounded-md shadow-lg dark:bg-gray-900 bg-whiteTheme">
-						<div className="">
-							<SiFigma />
+						<div className="w-20 h-20 mx-auto">
+							<SiFigma size="large" />
 						</div>
-						<p className="mt-2 text-base font-medium text-black-700 dark:text-white-700">
+						<p className="mt-2 text-xl font-medium text-black-700 dark:text-white-700">
 							Figma
 						</p>
 					</div>
