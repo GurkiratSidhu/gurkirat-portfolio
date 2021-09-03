@@ -16,25 +16,46 @@ function Projects() {
 				</h2>
 
 				<div className="flex flex-col">
-					<div className="flex">
-						<img src={Image1} />
-						<h1 className="text-2xl">Netflix Clone</h1>
-						<h2 className="text-xl">
-							Created using React with TMDB API (using Axios)
-						</h2>
+					<div className="flex my-10 row">
+						<div className="w-1/2 shadow-2xl">
+							<img src={Image1} />
+						</div>
+						<div className="text-right">
+							<h1 className="text-2xl font-extrabold">Netflix Clone</h1>
+							<h2 className="text-xl font-medium">
+								Created using React with TMDB API (using Axios)
+							</h2>
+							<h2 className="text-xl">React Axios</h2>
+							<a href=""></a>
+						</div>
 					</div>
-					<div className="flex">
-						<img src={Image2} />
-						<h1 className="text-2xl">Coloristy Landing Page</h1>
-						<h2 className="text-xl">
-							Created using React with TailwindCSS, and implemented Dark mode
-							functionality toggle
-						</h2>
+					<div className="flex my-10">
+						<div className="w-1/2 shadow-2xl">
+							<img src={Image2} />
+						</div>
+						<div className="text-right ">
+							<h1 className="text-2xl font-extrabold">
+								Coloristy Landing Page
+							</h1>
+							<h2 className="text-xl font-medium">
+								Created using React with TailwindCSS,<br></br> and implemented
+								Dark mode functionality toggle
+							</h2>
+							<h2 className="text-xl">React Tailwind</h2>
+							<a href=""></a>
+						</div>
 					</div>
-					<div className="flex">
-						<img src={Image3} />
-						<h1 className="text-2xl">EasyBank Landing Page</h1>
-						<h2 className="text-xl">Landing page using React and SASS</h2>
+					<div className="flex my-10">
+						<div className="w-1/2 shadow-2xl">
+							<img src={Image3} />
+						</div>
+						<div className="text-right ">
+							<h1 className="text-2xl font-extrabold">EasyBank Landing Page</h1>
+							<h2 className="text-xl font-medium">
+								Landing page using React and SASS
+							</h2>
+							<h2 className="text-xl">HTML SASS</h2>
+						</div>
 					</div>
 				</div>
 			</div>
