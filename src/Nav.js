@@ -4,7 +4,7 @@ import Toggle from "./toggle";
 function Nav() {
 	return (
 		<header className="">
-			<nav className="flex justify-between px-8 pt-10">
+			<nav className="flex justify-between py-2 pt-10 md:px-8">
 				<div className="">
 					<h1 className="text-4xl font-bold text-gray-800 dark:text-white">
 						Gurkirat

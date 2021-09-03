@@ -4,10 +4,12 @@ function Experience() {
 	return (
 		<div>
 			{" "}
-			<div className="mx-10 my-10 text-left dark:text-white">
-				<h1 className="mb-4 text-4xl font-extrabold text-left">Experience</h1>
+			<div className="my-10 text-left md:mx-10 dark:text-white">
+				<h1 className="mb-4 text-3xl font-extrabold text-left md:text-4xl">
+					Experience
+				</h1>
 
-				<h2 className="text-2xl">
+				<h2 className="mb-4 text-xl md:text-2xl">
 					Here are some great companies I had the honour to join for working on
 					various interesting projects.
 				</h2>
