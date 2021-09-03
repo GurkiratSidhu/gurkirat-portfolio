@@ -6,7 +6,7 @@ function Skills() {
 	return (
 		<div>
 			<div className="mx-10 my-10 text-left dark:text-white">
-				<h1 className="text-4xl font-extrabold text-left">Skills</h1>
+				<h1 className="mb-4 text-4xl font-extrabold text-left">Skills</h1>
 				<h2 className="text-2xl">
 					I am passionate about using cutting-edge technologies. These are the
 					tools I am most familiar with and build things every day.

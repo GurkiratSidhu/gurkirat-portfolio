@@ -22,11 +22,14 @@ function Projects() {
 						</div>
 						<div className="text-right">
 							<h1 className="text-2xl font-extrabold">Netflix Clone</h1>
-							<h2 className="text-xl font-medium">
+							<h2 className="px-2 py-4 my-6 text-xl font-medium shadow-2xl">
 								Created using React with TMDB API (using Axios)
 							</h2>
 							<h2 className="text-xl">React Axios</h2>
-							<a href=""></a>
+							<a href="https://gurkirat-netflix.vercel.app/">LINK</a>
+							<a href="https://github.com/GurkiratSidhu/netflix-clone">
+								Github Repo
+							</a>
 						</div>
 					</div>
 					<div className="flex my-10">
@@ -37,12 +40,15 @@ function Projects() {
 							<h1 className="text-2xl font-extrabold">
 								Coloristy Landing Page
 							</h1>
-							<h2 className="text-xl font-medium">
+							<h2 className="px-2 py-4 my-6 text-xl font-medium shadow-2xl">
 								Created using React with TailwindCSS,<br></br> and implemented
 								Dark mode functionality toggle
 							</h2>
 							<h2 className="text-xl">React Tailwind</h2>
-							<a href=""></a>
+							<a href="https://gurkirat-coloristy.vercel.app/">LINK</a>
+							<a href="https://github.com/GurkiratSidhu/coloristy-landing-page">
+								Github Repo
+							</a>
 						</div>
 					</div>
 					<div className="flex my-10">
@@ -51,10 +57,18 @@ function Projects() {
 						</div>
 						<div className="text-right ">
 							<h1 className="text-2xl font-extrabold">EasyBank Landing Page</h1>
-							<h2 className="text-xl font-medium">
+							<h2 className="px-2 py-4 my-6 text-xl font-medium shadow-2xl">
 								Landing page using React and SASS
 							</h2>
 							<h2 className="text-xl">HTML SASS</h2>
+
+							<a href="https://gurkirat-basic-landing-page.vercel.app/">LINK</a>
+							<a
+								href="https://github.com/GurkiratSidhu/basic-landing-page"
+								className="text-xl text-blue-500"
+							>
+								Github Repo
+							</a>
 						</div>
 					</div>
 				</div>
