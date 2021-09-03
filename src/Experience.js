@@ -11,6 +11,31 @@ function Experience() {
 					Here are some great companies I had the honour to join for working on
 					various interesting projects.
 				</h2>
+				<div>
+					<div>
+						<h2 className="text-lg font-extrabold">React Web Dev</h2>
+						<span></span>
+						<h2 className="font-medium text-md">Freelance</h2>
+					</div>
+					<div>
+						<h2 className="text-lg font-extrabold">
+							Video Editor and Motion Graphics Artist
+						</h2>
+						<h2 className="font-medium text-md">94 Films</h2>
+					</div>
+					<div>
+						<h2 className="text-lg font-extrabold">Sr. Business Analyst</h2>
+						<h2 className="font-medium text-md">MindScroll</h2>
+					</div>
+					<div>
+						<h2 className="text-lg font-extrabold">Business Analyst</h2>
+						<h2 className="font-medium text-md">GyanDhan</h2>
+					</div>
+					<div>
+						<h2 className="text-lg font-extrabold">Computer Science Grad</h2>
+						<h2 className="font-medium text-md">Thapar Unievrsity</h2>
+					</div>
+				</div>
 			</div>
 		</div>
 	);
