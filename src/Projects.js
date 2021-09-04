@@ -16,7 +16,7 @@ function Projects() {
 				</h2>
 
 				<div className="flex flex-col">
-					<div className="flex my-4 md:my-10 row">
+					<div className="flex flex-col my-4 md:flex-row md:my-10">
 						<div className="w-1/2 shadow-2xl">
 							<img src={Image1} />
 						</div>
@@ -32,7 +32,7 @@ function Projects() {
 							</a>
 						</div>
 					</div>
-					<div className="flex my-4 md:my-10">
+					<div className="flex flex-col my-4 md:flex-row md:my-10">
 						<div className="w-1/2 shadow-2xl">
 							<img src={Image2} />
 						</div>
@@ -51,7 +51,7 @@ function Projects() {
 							</a>
 						</div>
 					</div>
-					<div className="flex my-4 md:my-10">
+					<div className="flex flex-col my-4 md:flex-row md:my-10">
 						<div className="w-1/2 shadow-2xl">
 							<img src={Image3} />
 						</div>
